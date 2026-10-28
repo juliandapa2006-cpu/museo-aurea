@@ -1,0 +1,16 @@
+#entrar {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 99999;
+
+  padding: 16px 32px;
+  background: #123e32;
+  color: #c5a45b;
+  border: 2px solid #c5a45b;
+  border-radius: 10px;
+
+  font: bold 18px sans-serif;
+  cursor: pointer;
+}
